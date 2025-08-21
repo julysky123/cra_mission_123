@@ -5,7 +5,13 @@
 #include <map>
 #include <algorithm>
 #include <stdexcept>
-using namespace std;
+using std::vector;
+using std::map;
+using std::pair;
+using std::make_pair;
+using std::string;
+using std::ifstream;
+using std::cout;
 
 constexpr int WEEK_DAYS = 7;
 enum Week
