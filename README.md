@@ -7,5 +7,5 @@
 
 ## Code Coverage
 
-![coverage1](./mission2/coverage1.png)
-![coverage2](./mission2/coverage2.png)
+![coverage1](./mission2/coverage1.PNG)
+![coverage2](./mission2/coverage2.PNG)
